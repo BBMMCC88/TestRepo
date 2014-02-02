@@ -1,0 +1,7 @@
+// Extracted with MulleDK19's GMAD Extractor
+"AddonInfo"
+{
+	"name" "The Golden Gun"
+	"author_name" "Unknown"
+	"info" "Babel is proud to present the result of a grueling week in an Egyptian temple, trying to figure out a stupid puzzle.  Most of you (Maybe, if not all) will remember this weapon from The Man with a Golden Gun, a 007 movie/novel where James Bond must confront Francisco Scaramanga.  Or from the N64 game Goldeneye 007, where your friends always chose Oddjob and used this against you.  --= Credits =-- Fixer - ripping the gun model  TheKritter71 - porting from GTA SA  Asteroidrules - making it a gun prop   Rareware - Sounds  Swepping/Hexing/Distribution: Chris / Babel Ind. Product Shipment: Jenny (The Flower-Girl of Teufort) Permission was given to use this model.  --Group-- Babel is finally back after overcoming some issues. If you enjoy this weapon, why not join the official Babel Industries steam group? http://steamcommunity.com/groups/BabelInd I posts previews of upcoming weapons, and announce when they're on the 'shop.  "
+}

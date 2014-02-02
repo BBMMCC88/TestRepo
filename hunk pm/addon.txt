@@ -1,0 +1,7 @@
+// Extracted with MulleDK19's GMAD Extractor
+"AddonInfo"
+{
+	"name" "Resident Evil - HUNK Playermodel"
+	"author_name" "Unknown"
+	"info" "Every guy wants to be him, every girl wants to sleep with him.  Supports Playercolor, as well as Viewmodel Arms  TAGS: Resident Evil Biohazard HUNK Capcom Raccoon City  Yes, there's a glitch with the Physgun. No it's not something I can fix. Garry broke all custom arms for the Physgun, so he needs to fix it."
+}
